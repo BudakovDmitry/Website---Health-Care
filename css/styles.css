@@ -47,7 +47,7 @@ main {
 }
 
 .main-container {
-  background-image: url(img/lady.jpg);
+  background-image: url(../img/lady.jpg);
   background-size: cover;
   min-width: auto;
   height: 500px;
@@ -170,7 +170,7 @@ main {
 }
 
 .info-container {
-  background-image: url(img/services_bg.jpg);
+  background-image: url(../img/services_bg.jpg);
   background-size: cover;
   width: auto;
   height: 500px;  
@@ -228,7 +228,7 @@ main {
 }
 
 .offers-container {
-  background-image: url(img/pricing_bg.jpg);
+  background-image: url(../img/pricing_bg.jpg);
   background-size: cover;
   width: auto;
   height: 750px;  
